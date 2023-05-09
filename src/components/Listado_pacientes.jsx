@@ -13,6 +13,9 @@ function Listado_pacientes() {
       <Pacientes />
       <Pacientes />
 
+
+      for(let first in second) {third}
+
     </div> 
    
         
